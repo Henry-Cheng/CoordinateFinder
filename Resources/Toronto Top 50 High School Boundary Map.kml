@@ -1,0 +1,2944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Toronto Top 50 High School Boundary Map</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Ontario_Ranking.csv</name>
+      <Placemark>
+        <name>1/747</name>
+        <description><![CDATA[Rank in the most recent five years: 1/623<br>Trend: —<br>School Name: St Michael's Choir<br>City: Toronto<br>2016-17 Rating: 9.4<br>Rating in the most recent five years: 9.6<br>link: http://ontario.compareschoolrankings.org/secondary/St_Michael's_Choir_(Sr)_School/Toronto/Report_Card.aspx<br>path: /secondary/St_Michael's_Choir_(Sr)_School/Toronto/Report_Card.aspx<br>lat: 43.655026<br>lon: -79.3778025]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>1/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value><![CDATA[St Michael's Choir]]></value>
+          </Data>
+          <Data name="City">
+            <value>Toronto</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>9.4</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>9.6</value>
+          </Data>
+          <Data name="link">
+            <value><![CDATA[http://ontario.compareschoolrankings.org/secondary/St_Michael's_Choir_(Sr)_School/Toronto/Report_Card.aspx]]></value>
+          </Data>
+          <Data name="path">
+            <value><![CDATA[/secondary/St_Michael's_Choir_(Sr)_School/Toronto/Report_Card.aspx]]></value>
+          </Data>
+          <Data name="lat">
+            <value>43.655026</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.3778025</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.3778025,43.655026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2/747</name>
+        <description><![CDATA[Rank in the most recent five years: 9/623<br>Trend: —<br>School Name: Abbey Park<br>City: Oakville<br>2016-17 Rating: 9.2<br>Rating in the most recent five years: 8.9<br>link: http://ontario.compareschoolrankings.org/secondary/Abbey_Park_High_School/Oakville/Report_Card.aspx<br>path: /secondary/Abbey_Park_High_School/Oakville/Report_Card.aspx<br>lat: 43.4360228<br>lon: -79.7350294]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>9/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Abbey Park</value>
+          </Data>
+          <Data name="City">
+            <value>Oakville</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>9.2</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.9</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Abbey_Park_High_School/Oakville/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Abbey_Park_High_School/Oakville/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.4360228</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.7350294</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.7350294,43.4360228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2/747</name>
+        <description><![CDATA[Rank in the most recent five years: 9/623<br>Trend: —<br>School Name: St Robert<br>City: Thornhill<br>2016-17 Rating: 9.2<br>Rating in the most recent five years: 8.9<br>link: http://ontario.compareschoolrankings.org/secondary/St_Robert_Catholic_High_School/Thornhill/Report_Card.aspx<br>path: /secondary/St_Robert_Catholic_High_School/Thornhill/Report_Card.aspx<br>lat: 43.8379902<br>lon: -79.3805789]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>9/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>St Robert</value>
+          </Data>
+          <Data name="City">
+            <value>Thornhill</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>9.2</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.9</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/St_Robert_Catholic_High_School/Thornhill/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/St_Robert_Catholic_High_School/Thornhill/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.8379902</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.3805789</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.3805789,43.8379902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4/747</name>
+        <description><![CDATA[Rank in the most recent five years: 2/623<br>Trend: —<br>School Name: Colonel By<br>City: Gloucester<br>2016-17 Rating: 9.1<br>Rating in the most recent five years: 9.2<br>link: http://ontario.compareschoolrankings.org/secondary/Colonel_By_Secondary_School/Gloucester/Report_Card.aspx<br>path: /secondary/Colonel_By_Secondary_School/Gloucester/Report_Card.aspx<br>lat: 45.4309439<br>lon: -75.620036]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>2/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Colonel By</value>
+          </Data>
+          <Data name="City">
+            <value>Gloucester</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>9.1</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>9.2</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Colonel_By_Secondary_School/Gloucester/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Colonel_By_Secondary_School/Gloucester/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>45.4309439</value>
+          </Data>
+          <Data name="lon">
+            <value>-75.620036</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.620036,45.4309439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4/747</name>
+        <description><![CDATA[Rank in the most recent five years: 4/623<br>Trend: —<br>School Name: St Therese of Lisieux<br>City: Richmond Hill<br>2016-17 Rating: 9.1<br>Rating in the most recent five years: 9.0<br>link: http://ontario.compareschoolrankings.org/secondary/St_Therese_of_Lisieux_Catholic_High_School/Richmond_Hill/Report_Card.aspx<br>path: /secondary/St_Therese_of_Lisieux_Catholic_High_School/Richmond_Hill/Report_Card.aspx<br>lat: 43.8954727<br>lon: -79.4654877]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>4/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>St Therese of Lisieux</value>
+          </Data>
+          <Data name="City">
+            <value>Richmond Hill</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>9.1</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>9.0</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/St_Therese_of_Lisieux_Catholic_High_School/Richmond_Hill/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/St_Therese_of_Lisieux_Catholic_High_School/Richmond_Hill/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.8954727</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.4654877</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.4654877,43.8954727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4/747</name>
+        <description><![CDATA[Rank in the most recent five years: 12/623<br>Trend: <br>School Name: Ursula Franklin<br>City: Toronto<br>2016-17 Rating: 9.1<br>Rating in the most recent five years: 8.8<br>link: http://ontario.compareschoolrankings.org/secondary/Ursula_Franklin_Academy/Toronto/Report_Card.aspx<br>path: /secondary/Ursula_Franklin_Academy/Toronto/Report_Card.aspx<br>lat: 43.6576892<br>lon: -79.4729511]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>12/623</value>
+          </Data>
+          <Data name="Trend">
+            <value/>
+          </Data>
+          <Data name="School Name">
+            <value>Ursula Franklin</value>
+          </Data>
+          <Data name="City">
+            <value>Toronto</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>9.1</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.8</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Ursula_Franklin_Academy/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Ursula_Franklin_Academy/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.6576892</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.4729511</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.4729511,43.6576892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4/747</name>
+        <description><![CDATA[Rank in the most recent five years: n/a<br>Trend: n/a<br>School Name: Ange-Gabriel<br>City: Brockville<br>2016-17 Rating: 9.1<br>Rating in the most recent five years: n/a<br>link: http://ontario.compareschoolrankings.org/secondary/%c3%89cole_secondaire_catholique_Acad%c3%a9mie_cath._Ange-Ga/Brockville/Report_Card.aspx<br>path: /secondary/%c3%89cole_secondaire_catholique_Acad%c3%a9mie_cath._Ange-Ga/Brockville/Report_Card.aspx<br>lat: 44.611397<br>lon: -75.717994]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="Trend">
+            <value>n/a</value>
+          </Data>
+          <Data name="School Name">
+            <value>Ange-Gabriel</value>
+          </Data>
+          <Data name="City">
+            <value>Brockville</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>9.1</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/%c3%89cole_secondaire_catholique_Acad%c3%a9mie_cath._Ange-Ga/Brockville/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/%c3%89cole_secondaire_catholique_Acad%c3%a9mie_cath._Ange-Ga/Brockville/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>44.611397</value>
+          </Data>
+          <Data name="lon">
+            <value>-75.717994</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.717994,44.611397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4/747</name>
+        <description><![CDATA[Rank in the most recent five years: n/a<br>Trend: n/a<br>School Name: Confédération<br>City: Welland<br>2016-17 Rating: 9.1<br>Rating in the most recent five years: n/a<br>link: http://ontario.compareschoolrankings.org/secondary/%c3%89cole_secondaire_Conf%c3%a9d%c3%a9ration/Welland/Report_Card.aspx<br>path: /secondary/%c3%89cole_secondaire_Conf%c3%a9d%c3%a9ration/Welland/Report_Card.aspx<br>lat: 42.9889<br>lon: -79.2235]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="Trend">
+            <value>n/a</value>
+          </Data>
+          <Data name="School Name">
+            <value>Confédération</value>
+          </Data>
+          <Data name="City">
+            <value>Welland</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>9.1</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/%c3%89cole_secondaire_Conf%c3%a9d%c3%a9ration/Welland/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/%c3%89cole_secondaire_Conf%c3%a9d%c3%a9ration/Welland/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>42.9889</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.2235</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.2235,42.9889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9/747</name>
+        <description><![CDATA[Rank in the most recent five years: 4/623<br>Trend: —<br>School Name: Bayview<br>City: Richmond Hill<br>2016-17 Rating: 9<br>Rating in the most recent five years: 9.0<br>link: http://ontario.compareschoolrankings.org/secondary/Bayview_Secondary_School/Richmond_Hill/Report_Card.aspx<br>path: /secondary/Bayview_Secondary_School/Richmond_Hill/Report_Card.aspx<br>lat: 43.8784008<br>lon: -79.4151077]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>4/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Bayview</value>
+          </Data>
+          <Data name="City">
+            <value>Richmond Hill</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>9.0</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>9.0</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Bayview_Secondary_School/Richmond_Hill/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Bayview_Secondary_School/Richmond_Hill/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.8784008</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.4151077</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.4151077,43.8784008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9/747</name>
+        <description><![CDATA[Rank in the most recent five years: 22/623<br>Trend: —<br>School Name: St Joseph's<br>City: Renfrew<br>2016-17 Rating: 9<br>Rating in the most recent five years: 8.5<br>link: http://ontario.compareschoolrankings.org/secondary/St_Joseph's_High_School/Renfrew/Report_Card.aspx<br>path: /secondary/St_Joseph's_High_School/Renfrew/Report_Card.aspx<br>lat: 45.4639043<br>lon: -76.6697805]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>22/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value><![CDATA[St Joseph's]]></value>
+          </Data>
+          <Data name="City">
+            <value>Renfrew</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>9.0</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.5</value>
+          </Data>
+          <Data name="link">
+            <value><![CDATA[http://ontario.compareschoolrankings.org/secondary/St_Joseph's_High_School/Renfrew/Report_Card.aspx]]></value>
+          </Data>
+          <Data name="path">
+            <value><![CDATA[/secondary/St_Joseph's_High_School/Renfrew/Report_Card.aspx]]></value>
+          </Data>
+          <Data name="lat">
+            <value>45.4639043</value>
+          </Data>
+          <Data name="lon">
+            <value>-76.6697805</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.6697805,45.4639043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11/747</name>
+        <description><![CDATA[Rank in the most recent five years: 3/623<br>Trend: —<br>School Name: London Central<br>City: London<br>2016-17 Rating: 8.9<br>Rating in the most recent five years: 9.1<br>link: http://ontario.compareschoolrankings.org/secondary/London_Central_Secondary_School/London/Report_Card.aspx<br>path: /secondary/London_Central_Secondary_School/London/Report_Card.aspx<br>lat: 42.9883864<br>lon: -81.2438771]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>3/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>London Central</value>
+          </Data>
+          <Data name="City">
+            <value>London</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.9</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>9.1</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/London_Central_Secondary_School/London/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/London_Central_Secondary_School/London/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>42.9883864</value>
+          </Data>
+          <Data name="lon">
+            <value>-81.2438771</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.2438771,42.9883864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11/747</name>
+        <description><![CDATA[Rank in the most recent five years: 4/623<br>Trend: —<br>School Name: Markville<br>City: Markham<br>2016-17 Rating: 8.9<br>Rating in the most recent five years: 9.0<br>link: http://ontario.compareschoolrankings.org/secondary/Markville_Secondary_School/Markham/Report_Card.aspx<br>path: /secondary/Markville_Secondary_School/Markham/Report_Card.aspx<br>lat: 43.8765607<br>lon: -79.2891283]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>4/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Markville</value>
+          </Data>
+          <Data name="City">
+            <value>Markham</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.9</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>9.0</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Markville_Secondary_School/Markham/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Markville_Secondary_School/Markham/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.8765607</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.2891283</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.2891283,43.8765607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11/747</name>
+        <description><![CDATA[Rank in the most recent five years: 9/623<br>Trend: —<br>School Name: Oakville Trafalgar<br>City: Oakville<br>2016-17 Rating: 8.9<br>Rating in the most recent five years: 8.9<br>link: http://ontario.compareschoolrankings.org/secondary/Oakville_Trafalgar_High_School/Oakville/Report_Card.aspx<br>path: /secondary/Oakville_Trafalgar_High_School/Oakville/Report_Card.aspx<br>lat: 43.4731152<br>lon: -79.6557367]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>9/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Oakville Trafalgar</value>
+          </Data>
+          <Data name="City">
+            <value>Oakville</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.9</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.9</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Oakville_Trafalgar_High_School/Oakville/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Oakville_Trafalgar_High_School/Oakville/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.4731152</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.6557367</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.6557367,43.4731152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11/747</name>
+        <description><![CDATA[Rank in the most recent five years: 20/623<br>Trend: —<br>School Name: St Michael<br>City: Kemptville<br>2016-17 Rating: 8.9<br>Rating in the most recent five years: 8.6<br>link: http://ontario.compareschoolrankings.org/secondary/St_Michael_High_School/Kemptville/Report_Card.aspx<br>path: /secondary/St_Michael_High_School/Kemptville/Report_Card.aspx<br>lat: 45.0225523<br>lon: -75.6506757]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>20/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>St Michael</value>
+          </Data>
+          <Data name="City">
+            <value>Kemptville</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.9</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.6</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/St_Michael_High_School/Kemptville/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/St_Michael_High_School/Kemptville/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>45.0225523</value>
+          </Data>
+          <Data name="lon">
+            <value>-75.6506757</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.6506757,45.0225523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11/747</name>
+        <description><![CDATA[Rank in the most recent five years: 104/623<br>Trend: <br>School Name: Marie-Rivier<br>City: Kingston<br>2016-17 Rating: 8.9<br>Rating in the most recent five years: 7.5<br>link: http://ontario.compareschoolrankings.org/secondary/%c3%89cole_secondaire_catholique_Marie-Rivier/Kingston/Report_Card.aspx<br>path: /secondary/%c3%89cole_secondaire_catholique_Marie-Rivier/Kingston/Report_Card.aspx<br>lat: 44.2694915<br>lon: -76.5234065]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>104/623</value>
+          </Data>
+          <Data name="Trend">
+            <value/>
+          </Data>
+          <Data name="School Name">
+            <value>Marie-Rivier</value>
+          </Data>
+          <Data name="City">
+            <value>Kingston</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.9</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>7.5</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/%c3%89cole_secondaire_catholique_Marie-Rivier/Kingston/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/%c3%89cole_secondaire_catholique_Marie-Rivier/Kingston/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>44.2694915</value>
+          </Data>
+          <Data name="lon">
+            <value>-76.5234065</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.5234065,44.2694915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11/747</name>
+        <description><![CDATA[Rank in the most recent five years: n/a<br>Trend: n/a<br>School Name: Wali ul Asr<br>City: Caledon<br>2016-17 Rating: 8.9<br>Rating in the most recent five years: n/a<br>link: http://ontario.compareschoolrankings.org/secondary/Wali_ul_Asr_School_-_Central_Campus/Caledon/Report_Card.aspx<br>path: /secondary/Wali_ul_Asr_School_-_Central_Campus/Caledon/Report_Card.aspx<br>lat: 43.8464844<br>lon: -79.707436]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="Trend">
+            <value>n/a</value>
+          </Data>
+          <Data name="School Name">
+            <value>Wali ul Asr</value>
+          </Data>
+          <Data name="City">
+            <value>Caledon</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.9</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Wali_ul_Asr_School_-_Central_Campus/Caledon/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Wali_ul_Asr_School_-_Central_Campus/Caledon/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.8464844</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.707436</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.707436,43.8464844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17/747</name>
+        <description><![CDATA[Rank in the most recent five years: 4/623<br>Trend: <br>School Name: Unionville<br>City: Unionville<br>2016-17 Rating: 8.8<br>Rating in the most recent five years: 9.0<br>link: http://ontario.compareschoolrankings.org/secondary/Unionville_High_School/Unionville/Report_Card.aspx<br>path: /secondary/Unionville_High_School/Unionville/Report_Card.aspx<br>lat: 43.857503<br>lon: -79.339281]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>4/623</value>
+          </Data>
+          <Data name="Trend">
+            <value/>
+          </Data>
+          <Data name="School Name">
+            <value>Unionville</value>
+          </Data>
+          <Data name="City">
+            <value>Unionville</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.8</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>9.0</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Unionville_High_School/Unionville/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Unionville_High_School/Unionville/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.857503</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.339281</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.339281,43.857503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17/747</name>
+        <description><![CDATA[Rank in the most recent five years: 12/623<br>Trend: —<br>School Name: St Augustine<br>City: Markham<br>2016-17 Rating: 8.8<br>Rating in the most recent five years: 8.8<br>link: http://ontario.compareschoolrankings.org/secondary/St_Augustine_Catholic_High_School/Markham/Report_Card.aspx<br>path: /secondary/St_Augustine_Catholic_High_School/Markham/Report_Card.aspx<br>lat: 43.8763537<br>lon: -79.3584267]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>12/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>St Augustine</value>
+          </Data>
+          <Data name="City">
+            <value>Markham</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.8</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.8</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/St_Augustine_Catholic_High_School/Markham/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/St_Augustine_Catholic_High_School/Markham/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.8763537</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.3584267</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.3584267,43.8763537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19/747</name>
+        <description><![CDATA[Rank in the most recent five years: 4/623<br>Trend: —<br>School Name: Pierre Elliott Trudeau<br>City: Markham<br>2016-17 Rating: 8.7<br>Rating in the most recent five years: 9.0<br>link: http://ontario.compareschoolrankings.org/secondary/Pierre_Elliott_Trudeau_High_School/Markham/Report_Card.aspx<br>path: /secondary/Pierre_Elliott_Trudeau_High_School/Markham/Report_Card.aspx<br>lat: 43.889344<br>lon: -79.3127998]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>4/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Pierre Elliott Trudeau</value>
+          </Data>
+          <Data name="City">
+            <value>Markham</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.7</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>9.0</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Pierre_Elliott_Trudeau_High_School/Markham/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Pierre_Elliott_Trudeau_High_School/Markham/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.889344</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.3127998</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.3127998,43.889344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19/747</name>
+        <description><![CDATA[Rank in the most recent five years: 12/623<br>Trend: —<br>School Name: Richmond Hill<br>City: Richmond Hill<br>2016-17 Rating: 8.7<br>Rating in the most recent five years: 8.8<br>link: http://ontario.compareschoolrankings.org/secondary/Richmond_Hill_High_School/Richmond_Hill/Report_Card.aspx<br>path: /secondary/Richmond_Hill_High_School/Richmond_Hill/Report_Card.aspx<br>lat: 43.9034639<br>lon: -79.4407804]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>12/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Richmond Hill</value>
+          </Data>
+          <Data name="City">
+            <value>Richmond Hill</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.7</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.8</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Richmond_Hill_High_School/Richmond_Hill/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Richmond_Hill_High_School/Richmond_Hill/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.9034639</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.4407804</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.4407804,43.9034639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19/747</name>
+        <description><![CDATA[Rank in the most recent five years: 17/623<br>Trend: —<br>School Name: Cardinal Carter-Arts<br>City: Toronto<br>2016-17 Rating: 8.7<br>Rating in the most recent five years: 8.7<br>link: http://ontario.compareschoolrankings.org/secondary/Cardinal_Carter_Academy_for_the_Arts/Toronto/Report_Card.aspx<br>path: /secondary/Cardinal_Carter_Academy_for_the_Arts/Toronto/Report_Card.aspx<br>lat: 43.7638789<br>lon: -79.4087661]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>17/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Cardinal Carter-Arts</value>
+          </Data>
+          <Data name="City">
+            <value>Toronto</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.7</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.7</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Cardinal_Carter_Academy_for_the_Arts/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Cardinal_Carter_Academy_for_the_Arts/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.7638789</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.4087661</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.4087661,43.7638789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19/747</name>
+        <description><![CDATA[Rank in the most recent five years: 17/623<br>Trend: —<br>School Name: West Carleton<br>City: Dunrobin<br>2016-17 Rating: 8.7<br>Rating in the most recent five years: 8.7<br>link: http://ontario.compareschoolrankings.org/secondary/West_Carleton_Secondary_School/Dunrobin/Report_Card.aspx<br>path: /secondary/West_Carleton_Secondary_School/Dunrobin/Report_Card.aspx<br>lat: 45.4328192<br>lon: -76.034776]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>17/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>West Carleton</value>
+          </Data>
+          <Data name="City">
+            <value>Dunrobin</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.7</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.7</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/West_Carleton_Secondary_School/Dunrobin/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/West_Carleton_Secondary_School/Dunrobin/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>45.4328192</value>
+          </Data>
+          <Data name="lon">
+            <value>-76.034776</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.034776,45.4328192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19/747</name>
+        <description><![CDATA[Rank in the most recent five years: 22/623<br>Trend: <br>School Name: Bloor<br>City: Toronto<br>2016-17 Rating: 8.7<br>Rating in the most recent five years: 8.5<br>link: http://ontario.compareschoolrankings.org/secondary/Bloor_Collegiate_Institute/Toronto/Report_Card.aspx<br>path: /secondary/Bloor_Collegiate_Institute/Toronto/Report_Card.aspx<br>lat: 43.659627<br>lon: -79.436637]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>22/623</value>
+          </Data>
+          <Data name="Trend">
+            <value/>
+          </Data>
+          <Data name="School Name">
+            <value>Bloor</value>
+          </Data>
+          <Data name="City">
+            <value>Toronto</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.7</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.5</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Bloor_Collegiate_Institute/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Bloor_Collegiate_Institute/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.659627</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.436637</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.436637,43.659627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19/747</name>
+        <description><![CDATA[Rank in the most recent five years: n/a<br>Trend: n/a<br>School Name: John Fraser<br>City: Mississauga<br>2016-17 Rating: 8.7<br>Rating in the most recent five years: n/a<br>link: http://ontario.compareschoolrankings.org/secondary/John_Fraser_Secondary_School/Mississauga/Report_Card.aspx<br>path: /secondary/John_Fraser_Secondary_School/Mississauga/Report_Card.aspx<br>lat: 43.5595593<br>lon: -79.7155271]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="Trend">
+            <value>n/a</value>
+          </Data>
+          <Data name="School Name">
+            <value>John Fraser</value>
+          </Data>
+          <Data name="City">
+            <value>Mississauga</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.7</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/John_Fraser_Secondary_School/Mississauga/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/John_Fraser_Secondary_School/Mississauga/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.5595593</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.7155271</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.7155271,43.5595593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25/747</name>
+        <description><![CDATA[Rank in the most recent five years: 12/623<br>Trend: —<br>School Name: Iroquois Ridge<br>City: Oakville<br>2016-17 Rating: 8.6<br>Rating in the most recent five years: 8.8<br>link: http://ontario.compareschoolrankings.org/secondary/Iroquois_Ridge_High_School/Oakville/Report_Card.aspx<br>path: /secondary/Iroquois_Ridge_High_School/Oakville/Report_Card.aspx<br>lat: 43.488553<br>lon: -79.6982053]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>12/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Iroquois Ridge</value>
+          </Data>
+          <Data name="City">
+            <value>Oakville</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.6</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.8</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Iroquois_Ridge_High_School/Oakville/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Iroquois_Ridge_High_School/Oakville/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.488553</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.6982053</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.6982053,43.488553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25/747</name>
+        <description><![CDATA[Rank in the most recent five years: 17/623<br>Trend: <br>School Name: William Lyon Mackenzie<br>City: Toronto<br>2016-17 Rating: 8.6<br>Rating in the most recent five years: 8.7<br>link: http://ontario.compareschoolrankings.org/secondary/William_Lyon_Mackenzie_Collegiate_Institute/Toronto/Report_Card.aspx<br>path: /secondary/William_Lyon_Mackenzie_Collegiate_Institute/Toronto/Report_Card.aspx<br>lat: 43.753675<br>lon: -79.461601]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>17/623</value>
+          </Data>
+          <Data name="Trend">
+            <value/>
+          </Data>
+          <Data name="School Name">
+            <value>William Lyon Mackenzie</value>
+          </Data>
+          <Data name="City">
+            <value>Toronto</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.6</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.7</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/William_Lyon_Mackenzie_Collegiate_Institute/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/William_Lyon_Mackenzie_Collegiate_Institute/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.753675</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.461601</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.461601,43.753675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25/747</name>
+        <description><![CDATA[Rank in the most recent five years: 20/623<br>Trend: —<br>School Name: Le Sommet<br>City: Hawkesbury<br>2016-17 Rating: 8.6<br>Rating in the most recent five years: 8.6<br>link: http://ontario.compareschoolrankings.org/secondary/%c3%89cole_secondaire_publique_Le_Sommet/Hawkesbury/Report_Card.aspx<br>path: /secondary/%c3%89cole_secondaire_publique_Le_Sommet/Hawkesbury/Report_Card.aspx<br>lat: 45.6036823<br>lon: -74.599481]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>20/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Le Sommet</value>
+          </Data>
+          <Data name="City">
+            <value>Hawkesbury</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.6</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.6</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/%c3%89cole_secondaire_publique_Le_Sommet/Hawkesbury/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/%c3%89cole_secondaire_publique_Le_Sommet/Hawkesbury/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>45.6036823</value>
+          </Data>
+          <Data name="lon">
+            <value>-74.599481</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -74.599481,45.6036823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25/747</name>
+        <description><![CDATA[Rank in the most recent five years: 22/623<br>Trend: —<br>School Name: John McCrae<br>City: Nepean<br>2016-17 Rating: 8.6<br>Rating in the most recent five years: 8.5<br>link: http://ontario.compareschoolrankings.org/secondary/John_McCrae_Secondary_School/Nepean/Report_Card.aspx<br>path: /secondary/John_McCrae_Secondary_School/Nepean/Report_Card.aspx<br>lat: 45.280857<br>lon: -75.760176]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>22/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>John McCrae</value>
+          </Data>
+          <Data name="City">
+            <value>Nepean</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.6</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.5</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/John_McCrae_Secondary_School/Nepean/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/John_McCrae_Secondary_School/Nepean/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>45.280857</value>
+          </Data>
+          <Data name="lon">
+            <value>-75.760176</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.760176,45.280857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25/747</name>
+        <description><![CDATA[Rank in the most recent five years: 22/623<br>Trend: —<br>School Name: St Marcellinus<br>City: Mississauga<br>2016-17 Rating: 8.6<br>Rating in the most recent five years: 8.5<br>link: http://ontario.compareschoolrankings.org/secondary/St_Marcellinus_Secondary_School/Mississauga/Report_Card.aspx<br>path: /secondary/St_Marcellinus_Secondary_School/Mississauga/Report_Card.aspx<br>lat: 43.623769<br>lon: -79.7119896]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>22/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>St Marcellinus</value>
+          </Data>
+          <Data name="City">
+            <value>Mississauga</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.6</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.5</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/St_Marcellinus_Secondary_School/Mississauga/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/St_Marcellinus_Secondary_School/Mississauga/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.623769</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.7119896</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.7119896,43.623769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25/747</name>
+        <description><![CDATA[Rank in the most recent five years: 32/623<br>Trend: —<br>School Name: Etobicoke-Arts<br>City: Toronto<br>2016-17 Rating: 8.6<br>Rating in the most recent five years: 8.4<br>link: http://ontario.compareschoolrankings.org/secondary/Etobicoke_School_of_the_Arts/Toronto/Report_Card.aspx<br>path: /secondary/Etobicoke_School_of_the_Arts/Toronto/Report_Card.aspx<br>lat: 43.6307552<br>lon: -79.5044105]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>32/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Etobicoke-Arts</value>
+          </Data>
+          <Data name="City">
+            <value>Toronto</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.6</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.4</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Etobicoke_School_of_the_Arts/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Etobicoke_School_of_the_Arts/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.6307552</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.5044105</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.5044105,43.6307552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25/747</name>
+        <description><![CDATA[Rank in the most recent five years: 32/623<br>Trend: —<br>School Name: ISNA<br>City: Mississauga<br>2016-17 Rating: 8.6<br>Rating in the most recent five years: 8.4<br>link: http://ontario.compareschoolrankings.org/secondary/ISNA_High_School/Mississauga/Report_Card.aspx<br>path: /secondary/ISNA_High_School/Mississauga/Report_Card.aspx<br>lat: 43.5205497<br>lon: -79.6512774]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>32/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>ISNA</value>
+          </Data>
+          <Data name="City">
+            <value>Mississauga</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.6</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.4</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/ISNA_High_School/Mississauga/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/ISNA_High_School/Mississauga/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.5205497</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.6512774</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.6512774,43.5205497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25/747</name>
+        <description><![CDATA[Rank in the most recent five years: 42/623<br>Trend: <br>School Name: Holy Trinity<br>City: Kanata<br>2016-17 Rating: 8.6<br>Rating in the most recent five years: 8.1<br>link: http://ontario.compareschoolrankings.org/secondary/Holy_Trinity_Catholic_High_School/Kanata/Report_Card.aspx<br>path: /secondary/Holy_Trinity_Catholic_High_School/Kanata/Report_Card.aspx<br>lat: 45.3081958<br>lon: -75.8998052]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>42/623</value>
+          </Data>
+          <Data name="Trend">
+            <value/>
+          </Data>
+          <Data name="School Name">
+            <value>Holy Trinity</value>
+          </Data>
+          <Data name="City">
+            <value>Kanata</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.6</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.1</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Holy_Trinity_Catholic_High_School/Kanata/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Holy_Trinity_Catholic_High_School/Kanata/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>45.3081958</value>
+          </Data>
+          <Data name="lon">
+            <value>-75.8998052</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.8998052,45.3081958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>33/747</name>
+        <description><![CDATA[Rank in the most recent five years: 22/623<br>Trend: —<br>School Name: De La Salle<br>City: Ottawa<br>2016-17 Rating: 8.5<br>Rating in the most recent five years: 8.5<br>link: http://ontario.compareschoolrankings.org/secondary/%c3%89cole_secondaire_publique_De_La_Salle/Ottawa/Report_Card.aspx<br>path: /secondary/%c3%89cole_secondaire_publique_De_La_Salle/Ottawa/Report_Card.aspx<br>lat: 45.4345044<br>lon: -75.6853239]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>22/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>De La Salle</value>
+          </Data>
+          <Data name="City">
+            <value>Ottawa</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.5</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.5</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/%c3%89cole_secondaire_publique_De_La_Salle/Ottawa/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/%c3%89cole_secondaire_publique_De_La_Salle/Ottawa/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>45.4345044</value>
+          </Data>
+          <Data name="lon">
+            <value>-75.6853239</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.6853239,45.4345044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>33/747</name>
+        <description><![CDATA[Rank in the most recent five years: 22/623<br>Trend: —<br>School Name: Lawrence Park<br>City: Toronto<br>2016-17 Rating: 8.5<br>Rating in the most recent five years: 8.5<br>link: http://ontario.compareschoolrankings.org/secondary/Lawrence_Park_Collegiate_Institute/Toronto/Report_Card.aspx<br>path: /secondary/Lawrence_Park_Collegiate_Institute/Toronto/Report_Card.aspx<br>lat: 43.7217975<br>lon: -79.408449]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>22/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Lawrence Park</value>
+          </Data>
+          <Data name="City">
+            <value>Toronto</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.5</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.5</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Lawrence_Park_Collegiate_Institute/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Lawrence_Park_Collegiate_Institute/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.7217975</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.408449</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.408449,43.7217975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>33/747</name>
+        <description><![CDATA[Rank in the most recent five years: 22/623<br>Trend: —<br>School Name: North Toronto<br>City: Toronto<br>2016-17 Rating: 8.5<br>Rating in the most recent five years: 8.5<br>link: http://ontario.compareschoolrankings.org/secondary/North_Toronto_Collegiate_Institute/Toronto/Report_Card.aspx<br>path: /secondary/North_Toronto_Collegiate_Institute/Toronto/Report_Card.aspx<br>lat: 43.7083596<br>lon: -79.3970735]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>22/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>North Toronto</value>
+          </Data>
+          <Data name="City">
+            <value>Toronto</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.5</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.5</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/North_Toronto_Collegiate_Institute/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/North_Toronto_Collegiate_Institute/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.7083596</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.3970735</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.3970735,43.7083596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>33/747</name>
+        <description><![CDATA[Rank in the most recent five years: 38/623<br>Trend: —<br>School Name: Elmira<br>City: Elmira<br>2016-17 Rating: 8.5<br>Rating in the most recent five years: 8.2<br>link: http://ontario.compareschoolrankings.org/secondary/Elmira_District_Secondary_School/Elmira/Report_Card.aspx<br>path: /secondary/Elmira_District_Secondary_School/Elmira/Report_Card.aspx<br>lat: 43.5935426<br>lon: -80.5608383]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>38/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Elmira</value>
+          </Data>
+          <Data name="City">
+            <value>Elmira</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.5</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.2</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Elmira_District_Secondary_School/Elmira/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Elmira_District_Secondary_School/Elmira/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.5935426</value>
+          </Data>
+          <Data name="lon">
+            <value>-80.5608383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.5608383,43.5935426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>33/747</name>
+        <description><![CDATA[Rank in the most recent five years: 42/623<br>Trend: —<br>School Name: Garth Webb<br>City: Oakville<br>2016-17 Rating: 8.5<br>Rating in the most recent five years: 8.1<br>link: http://ontario.compareschoolrankings.org/secondary/Garth_Webb_Secondary_School/Oakville/Report_Card.aspx<br>path: /secondary/Garth_Webb_Secondary_School/Oakville/Report_Card.aspx<br>lat: 43.435023<br>lon: -79.75514]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>42/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Garth Webb</value>
+          </Data>
+          <Data name="City">
+            <value>Oakville</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.5</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.1</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Garth_Webb_Secondary_School/Oakville/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Garth_Webb_Secondary_School/Oakville/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.435023</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.75514</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.75514,43.435023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>33/747</name>
+        <description><![CDATA[Rank in the most recent five years: n/a<br>Trend: n/a<br>School Name: The Woodlands<br>City: Mississauga<br>2016-17 Rating: 8.5<br>Rating in the most recent five years: n/a<br>link: http://ontario.compareschoolrankings.org/secondary/The_Woodlands_Secondary_School/Mississauga/Report_Card.aspx<br>path: /secondary/The_Woodlands_Secondary_School/Mississauga/Report_Card.aspx<br>lat: 43.562939<br>lon: -79.649808]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="Trend">
+            <value>n/a</value>
+          </Data>
+          <Data name="School Name">
+            <value>The Woodlands</value>
+          </Data>
+          <Data name="City">
+            <value>Mississauga</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.5</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/The_Woodlands_Secondary_School/Mississauga/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/The_Woodlands_Secondary_School/Mississauga/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.562939</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.649808</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.649808,43.562939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>39/747</name>
+        <description><![CDATA[Rank in the most recent five years: 12/623<br>Trend: —<br>School Name: Bur Oak<br>City: Markham<br>2016-17 Rating: 8.4<br>Rating in the most recent five years: 8.8<br>link: http://ontario.compareschoolrankings.org/secondary/Bur_Oak_Secondary_School/Markham/Report_Card.aspx<br>path: /secondary/Bur_Oak_Secondary_School/Markham/Report_Card.aspx<br>lat: 43.8975164<br>lon: -79.2798697]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>12/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Bur Oak</value>
+          </Data>
+          <Data name="City">
+            <value>Markham</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.4</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.8</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Bur_Oak_Secondary_School/Markham/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Bur_Oak_Secondary_School/Markham/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.8975164</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.2798697</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.2798697,43.8975164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>39/747</name>
+        <description><![CDATA[Rank in the most recent five years: 42/623<br>Trend: <br>School Name: Leaside<br>City: Toronto<br>2016-17 Rating: 8.4<br>Rating in the most recent five years: 8.1<br>link: http://ontario.compareschoolrankings.org/secondary/Leaside_High_School/Toronto/Report_Card.aspx<br>path: /secondary/Leaside_High_School/Toronto/Report_Card.aspx<br>lat: 43.7113<br>lon: -79.3709918]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>42/623</value>
+          </Data>
+          <Data name="Trend">
+            <value/>
+          </Data>
+          <Data name="School Name">
+            <value>Leaside</value>
+          </Data>
+          <Data name="City">
+            <value>Toronto</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.4</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.1</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Leaside_High_School/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Leaside_High_School/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.7113</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.3709918</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.3709918,43.7113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>39/747</name>
+        <description><![CDATA[Rank in the most recent five years: n/a<br>Trend: n/a<br>School Name: de-Lamothe-Cadillac<br>City: Windsor<br>2016-17 Rating: 8.4<br>Rating in the most recent five years: n/a<br>link: http://ontario.compareschoolrankings.org/secondary/%c3%89cole_secondaire_de-Lamothe-Cadillac/Windsor/Report_Card.aspx<br>path: /secondary/%c3%89cole_secondaire_de-Lamothe-Cadillac/Windsor/Report_Card.aspx<br>lat: 42.289191<br>lon: -83.047185]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="Trend">
+            <value>n/a</value>
+          </Data>
+          <Data name="School Name">
+            <value>de-Lamothe-Cadillac</value>
+          </Data>
+          <Data name="City">
+            <value>Windsor</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.4</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/%c3%89cole_secondaire_de-Lamothe-Cadillac/Windsor/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/%c3%89cole_secondaire_de-Lamothe-Cadillac/Windsor/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>42.289191</value>
+          </Data>
+          <Data name="lon">
+            <value>-83.047185</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -83.047185,42.289191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>39/747</name>
+        <description><![CDATA[Rank in the most recent five years: n/a<br>Trend: n/a<br>School Name: Nepean<br>City: Ottawa<br>2016-17 Rating: 8.4<br>Rating in the most recent five years: n/a<br>link: http://ontario.compareschoolrankings.org/secondary/Nepean_High_School/Ottawa/Report_Card.aspx<br>path: /secondary/Nepean_High_School/Ottawa/Report_Card.aspx<br>lat: 45.383436<br>lon: -75.759286]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="Trend">
+            <value>n/a</value>
+          </Data>
+          <Data name="School Name">
+            <value>Nepean</value>
+          </Data>
+          <Data name="City">
+            <value>Ottawa</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.4</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Nepean_High_School/Ottawa/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Nepean_High_School/Ottawa/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>45.383436</value>
+          </Data>
+          <Data name="lon">
+            <value>-75.759286</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.759286,45.383436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>43/747</name>
+        <description><![CDATA[Rank in the most recent five years: 36/623<br>Trend: —<br>School Name: St Joseph<br>City: Nepean<br>2016-17 Rating: 8.3<br>Rating in the most recent five years: 8.3<br>link: http://ontario.compareschoolrankings.org/secondary/St_Joseph_High_School/Nepean/Report_Card.aspx<br>path: /secondary/St_Joseph_High_School/Nepean/Report_Card.aspx<br>lat: 45.3275969<br>lon: -75.7801519]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>36/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>St Joseph</value>
+          </Data>
+          <Data name="City">
+            <value>Nepean</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.3</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.3</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/St_Joseph_High_School/Nepean/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/St_Joseph_High_School/Nepean/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>45.3275969</value>
+          </Data>
+          <Data name="lon">
+            <value>-75.7801519</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.7801519,45.3275969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>43/747</name>
+        <description><![CDATA[Rank in the most recent five years: 36/623<br>Trend: —<br>School Name: White Oaks<br>City: Oakville<br>2016-17 Rating: 8.3<br>Rating in the most recent five years: 8.3<br>link: http://ontario.compareschoolrankings.org/secondary/White_Oaks_High_School/Oakville/Report_Card.aspx<br>path: /secondary/White_Oaks_High_School/Oakville/Report_Card.aspx<br>lat: 43.464687<br>lon: -79.7008329]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>36/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>White Oaks</value>
+          </Data>
+          <Data name="City">
+            <value>Oakville</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.3</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.3</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/White_Oaks_High_School/Oakville/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/White_Oaks_High_School/Oakville/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.464687</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.7008329</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.7008329,43.464687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>43/747</name>
+        <description><![CDATA[Rank in the most recent five years: 42/623<br>Trend: —<br>School Name: Newmarket<br>City: Newmarket<br>2016-17 Rating: 8.3<br>Rating in the most recent five years: 8.1<br>link: http://ontario.compareschoolrankings.org/secondary/Newmarket_High_School/Newmarket/Report_Card.aspx<br>path: /secondary/Newmarket_High_School/Newmarket/Report_Card.aspx<br>lat: 44.0469947<br>lon: -79.4353569]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>42/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Newmarket</value>
+          </Data>
+          <Data name="City">
+            <value>Newmarket</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.3</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.1</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Newmarket_High_School/Newmarket/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Newmarket_High_School/Newmarket/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>44.0469947</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.4353569</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.4353569,44.0469947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>43/747</name>
+        <description><![CDATA[Rank in the most recent five years: 61/623<br>Trend: <br>School Name: Marymount<br>City: Sudbury<br>2016-17 Rating: 8.3<br>Rating in the most recent five years: 7.9<br>link: http://ontario.compareschoolrankings.org/secondary/Marymount_Academy_Catholic_School/Sudbury/Report_Card.aspx<br>path: /secondary/Marymount_Academy_Catholic_School/Sudbury/Report_Card.aspx<br>lat: 46.4972774<br>lon: -80.9944084]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>61/623</value>
+          </Data>
+          <Data name="Trend">
+            <value/>
+          </Data>
+          <Data name="School Name">
+            <value>Marymount</value>
+          </Data>
+          <Data name="City">
+            <value>Sudbury</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.3</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>7.9</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Marymount_Academy_Catholic_School/Sudbury/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Marymount_Academy_Catholic_School/Sudbury/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>46.4972774</value>
+          </Data>
+          <Data name="lon">
+            <value>-80.9944084</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.9944084,46.4972774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>47/747</name>
+        <description><![CDATA[Rank in the most recent five years: 22/623<br>Trend: —<br>School Name: Earl Haig<br>City: Toronto<br>2016-17 Rating: 8.2<br>Rating in the most recent five years: 8.5<br>link: http://ontario.compareschoolrankings.org/secondary/Earl_Haig_Secondary_School/Toronto/Report_Card.aspx<br>path: /secondary/Earl_Haig_Secondary_School/Toronto/Report_Card.aspx<br>lat: 43.7701083<br>lon: -79.4049833]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>22/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Earl Haig</value>
+          </Data>
+          <Data name="City">
+            <value>Toronto</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.2</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.5</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Earl_Haig_Secondary_School/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Earl_Haig_Secondary_School/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.7701083</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.4049833</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.4049833,43.7701083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>47/747</name>
+        <description><![CDATA[Rank in the most recent five years: 22/623<br>Trend: —<br>School Name: Earl of March<br>City: Kanata<br>2016-17 Rating: 8.2<br>Rating in the most recent five years: 8.5<br>link: http://ontario.compareschoolrankings.org/secondary/Earl_of_March_Secondary_School/Kanata/Report_Card.aspx<br>path: /secondary/Earl_of_March_Secondary_School/Kanata/Report_Card.aspx<br>lat: 45.3212058<br>lon: -75.8999048]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>22/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Earl of March</value>
+          </Data>
+          <Data name="City">
+            <value>Kanata</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.2</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.5</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Earl_of_March_Secondary_School/Kanata/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Earl_of_March_Secondary_School/Kanata/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>45.3212058</value>
+          </Data>
+          <Data name="lon">
+            <value>-75.8999048</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.8999048,45.3212058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>47/747</name>
+        <description><![CDATA[Rank in the most recent five years: 32/623<br>Trend: —<br>School Name: St Aloysius Gonzaga<br>City: Mississauga<br>2016-17 Rating: 8.2<br>Rating in the most recent five years: 8.4<br>link: http://ontario.compareschoolrankings.org/secondary/St_Aloysius_Gonzaga_Secondary_School/Mississauga/Report_Card.aspx<br>path: /secondary/St_Aloysius_Gonzaga_Secondary_School/Mississauga/Report_Card.aspx<br>lat: 43.5562418<br>lon: -79.7191697]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>32/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>St Aloysius Gonzaga</value>
+          </Data>
+          <Data name="City">
+            <value>Mississauga</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.2</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.4</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/St_Aloysius_Gonzaga_Secondary_School/Mississauga/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/St_Aloysius_Gonzaga_Secondary_School/Mississauga/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.5562418</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.7191697</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.7191697,43.5562418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>47/747</name>
+        <description><![CDATA[Rank in the most recent five years: 42/623<br>Trend: —<br>School Name: Nelson<br>City: Burlington<br>2016-17 Rating: 8.2<br>Rating in the most recent five years: 8.1<br>link: http://ontario.compareschoolrankings.org/secondary/Nelson_High_School/Burlington/Report_Card.aspx<br>path: /secondary/Nelson_High_School/Burlington/Report_Card.aspx<br>lat: 43.3570659<br>lon: -79.7655102]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>42/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Nelson</value>
+          </Data>
+          <Data name="City">
+            <value>Burlington</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.2</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.1</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Nelson_High_School/Burlington/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Nelson_High_School/Burlington/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.3570659</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.7655102</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.7655102,43.3570659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>47/747</name>
+        <description><![CDATA[Rank in the most recent five years: 87/623<br>Trend: <br>School Name: E L Crossley<br>City: Fonthill<br>2016-17 Rating: 8.2<br>Rating in the most recent five years: 7.6<br>link: http://ontario.compareschoolrankings.org/secondary/E_L_Crossley_Secondary_School/Fonthill/Report_Card.aspx<br>path: /secondary/E_L_Crossley_Secondary_School/Fonthill/Report_Card.aspx<br>lat: 43.0434318<br>lon: -79.3143449]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>87/623</value>
+          </Data>
+          <Data name="Trend">
+            <value/>
+          </Data>
+          <Data name="School Name">
+            <value>E L Crossley</value>
+          </Data>
+          <Data name="City">
+            <value>Fonthill</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.2</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>7.6</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/E_L_Crossley_Secondary_School/Fonthill/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/E_L_Crossley_Secondary_School/Fonthill/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.0434318</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.3143449</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.3143449,43.0434318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>47/747</name>
+        <description><![CDATA[Rank in the most recent five years: 120/623<br>Trend: <br>School Name: Jeanne-Lajoie<br>City: Pembroke<br>2016-17 Rating: 8.2<br>Rating in the most recent five years: 7.4<br>link: http://ontario.compareschoolrankings.org/secondary/%c3%89cole_secondaire_catholique_Jeanne-Lajoie%2c_pavillo/Pembroke/Report_Card.aspx<br>path: /secondary/%c3%89cole_secondaire_catholique_Jeanne-Lajoie%2c_pavillo/Pembroke/Report_Card.aspx<br>lat: 45.8330776<br>lon: -77.1482075]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>120/623</value>
+          </Data>
+          <Data name="Trend">
+            <value/>
+          </Data>
+          <Data name="School Name">
+            <value>Jeanne-Lajoie</value>
+          </Data>
+          <Data name="City">
+            <value>Pembroke</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.2</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>7.4</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/%c3%89cole_secondaire_catholique_Jeanne-Lajoie%2c_pavillo/Pembroke/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/%c3%89cole_secondaire_catholique_Jeanne-Lajoie%2c_pavillo/Pembroke/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>45.8330776</value>
+          </Data>
+          <Data name="lon">
+            <value>-77.1482075</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.1482075,45.8330776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>47/747</name>
+        <description><![CDATA[Rank in the most recent five years: n/a<br>Trend: n/a<br>School Name: A Y Jackson<br>City: Toronto<br>2016-17 Rating: 8.2<br>Rating in the most recent five years: n/a<br>link: http://ontario.compareschoolrankings.org/secondary/A_Y_Jackson_Secondary_School/Toronto/Report_Card.aspx<br>path: /secondary/A_Y_Jackson_Secondary_School/Toronto/Report_Card.aspx<br>lat: 43.80526<br>lon: -79.36651]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="Trend">
+            <value>n/a</value>
+          </Data>
+          <Data name="School Name">
+            <value>A Y Jackson</value>
+          </Data>
+          <Data name="City">
+            <value>Toronto</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.2</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/A_Y_Jackson_Secondary_School/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/A_Y_Jackson_Secondary_School/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.80526</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.36651</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.36651,43.80526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>54/747</name>
+        <description><![CDATA[Rank in the most recent five years: 22/623<br>Trend: —<br>School Name: Middlefield<br>City: Markham<br>2016-17 Rating: 8.1<br>Rating in the most recent five years: 8.5<br>link: http://ontario.compareschoolrankings.org/secondary/Middlefield_Collegiate_Institute/Markham/Report_Card.aspx<br>path: /secondary/Middlefield_Collegiate_Institute/Markham/Report_Card.aspx<br>lat: 43.8477988<br>lon: -79.2679668]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>22/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Middlefield</value>
+          </Data>
+          <Data name="City">
+            <value>Markham</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.1</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.5</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Middlefield_Collegiate_Institute/Markham/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Middlefield_Collegiate_Institute/Markham/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.8477988</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.2679668</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.2679668,43.8477988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>54/747</name>
+        <description><![CDATA[Rank in the most recent five years: 38/623<br>Trend: —<br>School Name: Humberside<br>City: Toronto<br>2016-17 Rating: 8.1<br>Rating in the most recent five years: 8.2<br>link: http://ontario.compareschoolrankings.org/secondary/Humberside_Collegiate_Institute/Toronto/Report_Card.aspx<br>path: /secondary/Humberside_Collegiate_Institute/Toronto/Report_Card.aspx<br>lat: 43.6596346<br>lon: -79.4695753]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>38/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Humberside</value>
+          </Data>
+          <Data name="City">
+            <value>Toronto</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.1</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.2</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Humberside_Collegiate_Institute/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Humberside_Collegiate_Institute/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.6596346</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.4695753</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.4695753,43.6596346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>54/747</name>
+        <description><![CDATA[Rank in the most recent five years: 42/623<br>Trend: —<br>School Name: Bill Crothers<br>City: Unionville<br>2016-17 Rating: 8.1<br>Rating in the most recent five years: 8.1<br>link: http://ontario.compareschoolrankings.org/secondary/Bill_Crothers_Secondary_School/Unionville/Report_Card.aspx<br>path: /secondary/Bill_Crothers_Secondary_School/Unionville/Report_Card.aspx<br>lat: 43.8576424<br>lon: -79.308629]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>42/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Bill Crothers</value>
+          </Data>
+          <Data name="City">
+            <value>Unionville</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.1</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.1</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Bill_Crothers_Secondary_School/Unionville/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Bill_Crothers_Secondary_School/Unionville/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.8576424</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.308629</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.308629,43.8576424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>54/747</name>
+        <description><![CDATA[Rank in the most recent five years: 70/623<br>Trend: —<br>School Name: Marc-Garneau<br>City: Trenton<br>2016-17 Rating: 8.1<br>Rating in the most recent five years: 7.8<br>link: http://ontario.compareschoolrankings.org/secondary/%c3%89cole_secondaire_publique_Marc-Garneau/Trenton/Report_Card.aspx<br>path: /secondary/%c3%89cole_secondaire_publique_Marc-Garneau/Trenton/Report_Card.aspx<br>lat: 44.1140811<br>lon: -77.5560828]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>70/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Marc-Garneau</value>
+          </Data>
+          <Data name="City">
+            <value>Trenton</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.1</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>7.8</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/%c3%89cole_secondaire_publique_Marc-Garneau/Trenton/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/%c3%89cole_secondaire_publique_Marc-Garneau/Trenton/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>44.1140811</value>
+          </Data>
+          <Data name="lon">
+            <value>-77.5560828</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.5560828,44.1140811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>54/747</name>
+        <description><![CDATA[Rank in the most recent five years: 136/623<br>Trend: —<br>School Name: Erin<br>City: Erin<br>2016-17 Rating: 8.1<br>Rating in the most recent five years: 7.3<br>link: http://ontario.compareschoolrankings.org/secondary/Erin_District_High_School/Erin/Report_Card.aspx<br>path: /secondary/Erin_District_High_School/Erin/Report_Card.aspx<br>lat: 43.7776774<br>lon: -80.0671125]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>136/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Erin</value>
+          </Data>
+          <Data name="City">
+            <value>Erin</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.1</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>7.3</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Erin_District_High_School/Erin/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Erin_District_High_School/Erin/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.7776774</value>
+          </Data>
+          <Data name="lon">
+            <value>-80.0671125</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.0671125,43.7776774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59/747</name>
+        <description><![CDATA[Rank in the most recent five years: 42/623<br>Trend: —<br>School Name: Aurora<br>City: Aurora<br>2016-17 Rating: 8<br>Rating in the most recent five years: 8.1<br>link: http://ontario.compareschoolrankings.org/secondary/Aurora_High_School/Aurora/Report_Card.aspx<br>path: /secondary/Aurora_High_School/Aurora/Report_Card.aspx<br>lat: 43.9962336<br>lon: -79.4832134]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>42/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Aurora</value>
+          </Data>
+          <Data name="City">
+            <value>Aurora</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.0</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.1</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Aurora_High_School/Aurora/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Aurora_High_School/Aurora/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.9962336</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.4832134</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.4832134,43.9962336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59/747</name>
+        <description><![CDATA[Rank in the most recent five years: 42/623<br>Trend: —<br>School Name: Westmount<br>City: Thornhill<br>2016-17 Rating: 8<br>Rating in the most recent five years: 8.1<br>link: http://ontario.compareschoolrankings.org/secondary/Westmount_Collegiate_Institute/Thornhill/Report_Card.aspx<br>path: /secondary/Westmount_Collegiate_Institute/Thornhill/Report_Card.aspx<br>lat: 43.817057<br>lon: -79.453329]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>42/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Westmount</value>
+          </Data>
+          <Data name="City">
+            <value>Thornhill</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.0</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.1</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Westmount_Collegiate_Institute/Thornhill/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Westmount_Collegiate_Institute/Thornhill/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.817057</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.453329</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.453329,43.817057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59/747</name>
+        <description><![CDATA[Rank in the most recent five years: 53/623<br>Trend: —<br>School Name: Agincourt<br>City: Toronto<br>2016-17 Rating: 8<br>Rating in the most recent five years: 8.0<br>link: http://ontario.compareschoolrankings.org/secondary/Agincourt_Collegiate_Institute/Toronto/Report_Card.aspx<br>path: /secondary/Agincourt_Collegiate_Institute/Toronto/Report_Card.aspx<br>lat: 43.7872613<br>lon: -79.2792964]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>53/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Agincourt</value>
+          </Data>
+          <Data name="City">
+            <value>Toronto</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.0</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.0</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Agincourt_Collegiate_Institute/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Agincourt_Collegiate_Institute/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.7872613</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.2792964</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.2792964,43.7872613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59/747</name>
+        <description><![CDATA[Rank in the most recent five years: 61/623<br>Trend: —<br>School Name: Malvern<br>City: Toronto<br>2016-17 Rating: 8<br>Rating in the most recent five years: 7.9<br>link: http://ontario.compareschoolrankings.org/secondary/Malvern_Collegiate_Institute/Toronto/Report_Card.aspx<br>path: /secondary/Malvern_Collegiate_Institute/Toronto/Report_Card.aspx<br>lat: 43.6829799<br>lon: -79.2938459]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>61/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Malvern</value>
+          </Data>
+          <Data name="City">
+            <value>Toronto</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.0</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>7.9</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Malvern_Collegiate_Institute/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Malvern_Collegiate_Institute/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.6829799</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.2938459</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.2938459,43.6829799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59/747</name>
+        <description><![CDATA[Rank in the most recent five years: 61/623<br>Trend: —<br>School Name: St Anne<br>City: Tecumseh<br>2016-17 Rating: 8<br>Rating in the most recent five years: 7.9<br>link: http://ontario.compareschoolrankings.org/secondary/St_Anne/Tecumseh/Report_Card.aspx<br>path: /secondary/St_Anne/Tecumseh/Report_Card.aspx<br>lat: 42.3092405<br>lon: -82.8885235]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>61/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>St Anne</value>
+          </Data>
+          <Data name="City">
+            <value>Tecumseh</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.0</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>7.9</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/St_Anne/Tecumseh/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/St_Anne/Tecumseh/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>42.3092405</value>
+          </Data>
+          <Data name="lon">
+            <value>-82.8885235</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -82.8885235,42.3092405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59/747</name>
+        <description><![CDATA[Rank in the most recent five years: 70/623<br>Trend: —<br>School Name: Thomas A Blakelock<br>City: Oakville<br>2016-17 Rating: 8<br>Rating in the most recent five years: 7.8<br>link: http://ontario.compareschoolrankings.org/secondary/Thomas_A_Blakelock_High_School/Oakville/Report_Card.aspx<br>path: /secondary/Thomas_A_Blakelock_High_School/Oakville/Report_Card.aspx<br>lat: 43.4203014<br>lon: -79.6956635]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>70/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Thomas A Blakelock</value>
+          </Data>
+          <Data name="City">
+            <value>Oakville</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.0</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>7.8</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Thomas_A_Blakelock_High_School/Oakville/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Thomas_A_Blakelock_High_School/Oakville/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.4203014</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.6956635</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.6956635,43.4203014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59/747</name>
+        <description><![CDATA[Rank in the most recent five years: 104/623<br>Trend: —<br>School Name: Rosedale Heights-Arts<br>City: Toronto<br>2016-17 Rating: 8<br>Rating in the most recent five years: 7.5<br>link: http://ontario.compareschoolrankings.org/secondary/Rosedale_Heights_School_of_the_Arts/Toronto/Report_Card.aspx<br>path: /secondary/Rosedale_Heights_School_of_the_Arts/Toronto/Report_Card.aspx<br>lat: 43.6742<br>lon: -79.365261]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>104/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Rosedale Heights-Arts</value>
+          </Data>
+          <Data name="City">
+            <value>Toronto</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.0</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>7.5</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Rosedale_Heights_School_of_the_Arts/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Rosedale_Heights_School_of_the_Arts/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.6742</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.365261</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.365261,43.6742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59/747</name>
+        <description><![CDATA[Rank in the most recent five years: 120/623<br>Trend: —<br>School Name: Father Michael McGivney<br>City: Markham<br>2016-17 Rating: 8<br>Rating in the most recent five years: 7.4<br>link: http://ontario.compareschoolrankings.org/secondary/Father_Michael_McGivney_Catholic_Academy_High_Scho/Markham/Report_Card.aspx<br>path: /secondary/Father_Michael_McGivney_Catholic_Academy_High_Scho/Markham/Report_Card.aspx<br>lat: 43.8492323<br>lon: -79.2795886]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>120/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Father Michael McGivney</value>
+          </Data>
+          <Data name="City">
+            <value>Markham</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.0</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>7.4</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Father_Michael_McGivney_Catholic_Academy_High_Scho/Markham/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Father_Michael_McGivney_Catholic_Academy_High_Scho/Markham/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.8492323</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.2795886</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.2795886,43.8492323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59/747</name>
+        <description><![CDATA[Rank in the most recent five years: n/a<br>Trend: n/a<br>School Name: Lisgar<br>City: Ottawa<br>2016-17 Rating: 8<br>Rating in the most recent five years: n/a<br>link: http://ontario.compareschoolrankings.org/secondary/Lisgar_Collegiate_Institute/Ottawa/Report_Card.aspx<br>path: /secondary/Lisgar_Collegiate_Institute/Ottawa/Report_Card.aspx<br>lat: 45.420854<br>lon: -75.688001]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="Trend">
+            <value>n/a</value>
+          </Data>
+          <Data name="School Name">
+            <value>Lisgar</value>
+          </Data>
+          <Data name="City">
+            <value>Ottawa</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>8.0</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>n/a</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Lisgar_Collegiate_Institute/Ottawa/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Lisgar_Collegiate_Institute/Ottawa/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>45.420854</value>
+          </Data>
+          <Data name="lon">
+            <value>-75.688001</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.688001,45.420854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>68/747</name>
+        <description><![CDATA[Rank in the most recent five years: 32/623<br>Trend: —<br>School Name: Centennial<br>City: Guelph<br>2016-17 Rating: 7.9<br>Rating in the most recent five years: 8.4<br>link: http://ontario.compareschoolrankings.org/secondary/Centennial_Collegiate_and_Vocational_Institute/Guelph/Report_Card.aspx<br>path: /secondary/Centennial_Collegiate_and_Vocational_Institute/Guelph/Report_Card.aspx<br>lat: 43.5218906<br>lon: -80.2464761]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>32/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Centennial</value>
+          </Data>
+          <Data name="City">
+            <value>Guelph</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>7.9</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.4</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Centennial_Collegiate_and_Vocational_Institute/Guelph/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Centennial_Collegiate_and_Vocational_Institute/Guelph/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.5218906</value>
+          </Data>
+          <Data name="lon">
+            <value>-80.2464761</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.2464761,43.5218906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>68/747</name>
+        <description><![CDATA[Rank in the most recent five years: 38/623<br>Trend: —<br>School Name: Forest Hill<br>City: Toronto<br>2016-17 Rating: 7.9<br>Rating in the most recent five years: 8.2<br>link: http://ontario.compareschoolrankings.org/secondary/Forest_Hill_Collegiate_Institute/Toronto/Report_Card.aspx<br>path: /secondary/Forest_Hill_Collegiate_Institute/Toronto/Report_Card.aspx<br>lat: 43.7019868<br>lon: -79.4209542]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Rank in the most recent five years">
+            <value>38/623</value>
+          </Data>
+          <Data name="Trend">
+            <value>—</value>
+          </Data>
+          <Data name="School Name">
+            <value>Forest Hill</value>
+          </Data>
+          <Data name="City">
+            <value>Toronto</value>
+          </Data>
+          <Data name="2016-17 Rating">
+            <value>7.9</value>
+          </Data>
+          <Data name="Rating in the most recent five years">
+            <value>8.2</value>
+          </Data>
+          <Data name="link">
+            <value>http://ontario.compareschoolrankings.org/secondary/Forest_Hill_Collegiate_Institute/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="path">
+            <value>/secondary/Forest_Hill_Collegiate_Institute/Toronto/Report_Card.aspx</value>
+          </Data>
+          <Data name="lat">
+            <value>43.7019868</value>
+          </Data>
+          <Data name="lon">
+            <value>-79.4209542</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.4209542,43.7019868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
